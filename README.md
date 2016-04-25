@@ -1,2 +1,3 @@
 # hello-world
-just a begin helloworld
+hi suxin
+hear is a hello world ,my first writer
